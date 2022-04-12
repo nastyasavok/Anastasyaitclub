@@ -10,7 +10,7 @@
 
 .first{
     display: flex;
-    background: url(../img/img1.png);
+    background: url(img/img1.png);
     height: 588px;
     flex-direction: column;
     align-items: center;
